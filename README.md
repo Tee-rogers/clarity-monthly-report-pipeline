@@ -73,6 +73,10 @@ bashpython3 clarity_monthly_report.py
 
 Sample Output
 
+## Sample Output
+
+![UX Report Dashboard](assets/dashboard-sample.png)
+
 See /sample-report for a real (anonymized) report generated from this pipeline, showing the kind of actionable, specific insights it surfaces — including a JavaScript bug responsible for a 14% dead-click rate, identified in the very first run.
 
 Impact
